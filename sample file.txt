@@ -3,9 +3,10 @@ update formremote 2023年2月3日 16:18:03
 update from remote 2023年2月3日 16:24:53
 
 update form remot 11
-<<<<<<< HEAD
+
 updatefrom remote 11 2023年2月3日 16:41:24
-=======
+
 
 update from remote 22
->>>>>>> 89b68e67d928ec4c96202b5f6a3c21251108f7a0
+
+update form github 2023年2月3日 16:52:02
